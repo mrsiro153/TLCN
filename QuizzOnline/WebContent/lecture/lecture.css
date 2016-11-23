@@ -1,0 +1,12 @@
+div#lectureTableSubject{
+	border: 2px solid black;
+	background-color: rgba(233,252,252,0.8);
+	margin-top:3px;
+}
+div.lecturemain{
+	background-color: rgba(233,252,252,0.8);
+}
+div.listExam{
+	border: 2px solid red;
+	background-color: rgba(233,252,252,0.8);
+}
