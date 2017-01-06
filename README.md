@@ -1,2 +1,4 @@
 # TLCN
-Last Modify: 12/12/2016
+Last Modify: 7/1/2017
+Hoàn thành tất cả các chức năng
+
